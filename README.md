@@ -10,3 +10,4 @@ Giving JWT Token to access protected route
 Accessing '/auth/getAll' ie)Protected route
 
 ![Access to authticated route](https://1.bp.blogspot.com/-DX6kTHil2_E/W_KsRZLgCPI/AAAAAAAAABU/kus-QWragp4ECub8mJ2gYU9Ix8XY_rRyACLcBGAs/s1600/hashed%2Bpassword.PNG)
+
